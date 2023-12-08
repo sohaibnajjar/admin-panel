@@ -1,0 +1,14 @@
+.mainContainer {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  background-color: #fff;
+}
+
+.settingsMenu {
+  width: 200px;
+  border-inline-end: "none";
+}
+
+.sidebarTrigger {
+  width: 45px !important;
+}
